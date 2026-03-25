@@ -1,0 +1,3 @@
+[submodule "stopka-kola"]
+	path = stopka-kola
+	url = git@github.com:wojtij99/stopka-kola.git
