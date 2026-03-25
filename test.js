@@ -8,6 +8,6 @@ function dodaj(a, b) {
 if(dodaj(2, 3) === 5) {
     console.log("Test 1 przeszedł pomyślnie!");
 } else {
-    console.log("Test 1 nie przeszedł!");
+    console.log("X: Test 1 nie przeszedł!");
     process.exit(1);
 }
