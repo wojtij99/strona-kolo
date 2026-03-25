@@ -5,7 +5,7 @@ function dodaj(a, b) {
 }
 
 
-if(dodaj(2, 3) === 5) {
+if(dodaj(2, 3) === 8) {
     console.log("Test 1 przeszedł pomyślnie!");
 } else {
     console.log("Test 1 nie przeszedł!");
